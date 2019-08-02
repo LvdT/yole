@@ -3,7 +3,7 @@ A TypeScript Discord bot to play card games.
 
 ## Compile
 ```
-npm run watch
+npm run build
 ```
 ## Start
 ```
